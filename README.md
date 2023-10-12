@@ -1,5 +1,5 @@
 
-# La Maison Plante
+# Rêves Botaniques
 
 
 ## Présentation du projet
@@ -19,7 +19,7 @@ Avant de commencer, assurez-vous de remplir les prérequis suivant :
 
 1. Téléchargez le projet depuis Github. Soit directement (format zip), soit en clonant le projet en utilisant la commande suivante dans Git Bash :  
 ```
-git clone https://github.com/TheoSntt/maison-jungle.git
+git clone https://github.com/TheoSntt/reves-botaniques.git
 ```
 2. Il vous faut à présent installer les dépendances du projet, en exécutant la commande suivante :
 ```
